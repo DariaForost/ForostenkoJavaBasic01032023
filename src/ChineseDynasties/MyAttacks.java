@@ -8,7 +8,6 @@ public class MyAttacks {
         double allAttackLi = 860 * (soldierLi + bowmanLi + riderLi);  //сума атак Лі 71380
         System.out.println(allAttackLi);
 
-
         int soldierMyn = 9;  // 11610 атак 1290 воїнів
         int bowmanMyn = 35;  // 45150 атак 1290 лучників
         int riderMyn = 12;   //  15480 атак 1290 вершників
