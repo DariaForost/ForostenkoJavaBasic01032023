@@ -103,12 +103,12 @@ public class FitnessTracker {
         user2.printAccountInfo();
         user3.printAccountInfo();
 
-        user1.setWeight(180);
-        user2.setStepsPerDay(6000);
-        user3.setBloodPressure("120/80");
+        user1.setWeight(88);
+        user1.setStepsPerDay(6000);
+        user1.setLastName("Люсенко");
+        user2.setBloodPressure("120/80");
 
         user1.printAccountInfo();
         user2.printAccountInfo();
-        user3.printAccountInfo();
     }
 }
